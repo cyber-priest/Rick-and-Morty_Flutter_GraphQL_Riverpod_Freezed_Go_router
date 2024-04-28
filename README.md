@@ -1,6 +1,6 @@
-# shewaber
+# Rick and Morty 
 
-A new Flutter project.
+A flutter demo app using Rick and Morty GraphQL API 
 
 ## Getting Started
 
